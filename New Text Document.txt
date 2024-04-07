@@ -2,3 +2,16 @@ Creating the virtual enviornment
 
 conda create  -p venv python==3.8 -y
 conda activate venv/
+
+
+github initialization 
+Readme.md
+gitignore
+setup.py
+requirements.txt
+pip install -r requirements.txt
+
+git add .
+git commit -m "setup"
+git push -u origin main
+
