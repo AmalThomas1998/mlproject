@@ -15,3 +15,14 @@ git add .
 git commit -m "setup"
 git push -u origin main
 
+components 
+    data ingestion 
+    data transformation
+    model trainier
+pipeline 
+    predict_pipeline
+    train_pipeline
+exception 
+logger
+utils
+
